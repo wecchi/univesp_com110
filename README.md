@@ -6,7 +6,7 @@ Algoritmos: caracterização, notação, estruturas básicas. Conceitos de lingu
 
 ## Exercícios práticos:
 
-Relacionei diversos exercícios realizados no 2º bimestre/2020 durante as aulas da disciplina COM110 do Curso de Bacharel de Ciência de Dados da Univesp. Abaixo segue uma breve descrição do problema de negócios e da solução em Python (o link direciona para o código), além destes existem muitos outros códigos neste repositório:
+Relacionei diversos exercícios realizados no 3º bimestre/2020 durante as aulas da disciplina COM110 do Curso de Bacharel de Ciência de Dados da Univesp. Abaixo segue uma breve descrição do problema de negócios e da solução em Python (o link direciona para o código):
 
 1. [Consumo de gasolina](Sem2-ActiveCode_ex_2_10.py): calcula o consumo de gasolina de uma carro em quilômetros por litro
 2. [Área de um retângulo](Sem2-ActiveCode_ex_2_9.py): calcula a área de um retângulo a partir das informações de altura e largura
@@ -26,3 +26,5 @@ Relacionei diversos exercícios realizados no 2º bimestre/2020 durante as aulas
 16. [Desafio da semana 6](Sem6-Desafio.py): como você implementaria um programa que precisasse calcular a média de 1 milhão de valores? 
 17. [Desafio da semana 7](Sem7-Desafio.py): armazenando dados de aluno e disciplina existentes em listas num banco SQLite
 18. [Extração de vogais](Prova_3.py): Implemente uma função que receba uma string como parâmetro e imprima suas vogais
+
+**além destes coódigos, existem muitos outros neste repositório, confira!**
